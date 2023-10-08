@@ -1,28 +1,18 @@
 
 ![](qe-logo-large.png)
 
-# Python and Julia for economic modeling: recent developments and trends
+# An Introduction to High Performance Computing with Python
 
-This is the homepage for the [QuantEcon](https://quantecon.org/)-IMF seminar on scientific
-and high performance computing to be held in Washington DC in October 2023. 
+This is the homepage for the [QuantEcon](https://quantecon.org/) introduction to
+high performance computing with Python to be held at Columbia University in
+October 2023. 
 
-Instructor: John Stachurski (Australian National University, Co-founder of QuantEcon)
+**Instructor**: John Stachurski 
 
-The languages of instruction will be Python and Julia.  Instruction will draw on,
-but not be limited to, the 
-
-* [QuantEcon Python Programming](https://python-programming.quantecon.org/intro.html) lecture series
-* [QuantEcon Julia Programming](https://julia.quantecon.org/intro.html) lecture series
-
-
-## Topics
-
-* Julia for scientific computing
-* Python for scientific computing
-* Numba, Julia and modern JIT compilers
-* Automatic differentiation, parallelization and GPU computing with JAX
-* Application: Markov chains, time series models and distribution dynamics
-
+**Abstract**: This workshop will give an overview of Python's high performance
+computing capabilities and how they can be used for economic modeling.  We will
+cover JIT compilers, automation differentiation, cloud computing and GPUs.
+Attendees should bring their own laptop, but no software installs are necessary.
 
 
 
