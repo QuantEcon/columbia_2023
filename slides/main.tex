@@ -204,8 +204,9 @@
 
 
 
-\title{Introduction to HPC with Python: \\
-    History, Trends and Future Directions} 
+\title{Introduction to HPC with Python} 
+
+\subtitle{Workshop at Columbia University}
 
 \author{John Stachurski}
 
@@ -228,13 +229,18 @@
 \begin{frame}
     \frametitle{Outline}
 
-    \begin{itemize}
+    \begin{enumerate}
         \item Trends in scientific computing
+        \vspace{0.5em}
         \vspace{0.5em}
         \item Likely future directions
         \vspace{0.5em}
-        \item Hands-on computing with Python + NumPy + Numba + JAX
-    \end{itemize}
+        \vspace{0.5em}
+        \item Hands-on computing with Python + NumPy + Numba 
+        \vspace{0.5em}
+        \vspace{0.5em}
+        \item Hands-on computing with Python + JAX
+    \end{enumerate}
 
 \end{frame}
 
@@ -258,7 +264,7 @@
         \item Julia \& (Python + Numba) 
         \vspace{0.5em}
         \vspace{0.5em}
-        \item Python + Google JAX 
+        \item AI-driven scientific computing (e.g., Python + Google JAX)
     \end{enumerate}
 
 \end{frame}
@@ -402,11 +408,12 @@ quad(0.2, 4.0, 10_000_000)
     Key players
     %
     \begin{itemize}
-        \item TensorFlow, PyTorch 
+        \item TensorFlow
+        \vspace{0.5em}
+        \item PyTorch
         \vspace{0.5em}
         \item Google JAX
         \vspace{0.5em}
-        \item Mojo?
     \end{itemize}
     
 \end{frame}
@@ -438,6 +445,30 @@ quad(0.2, 4.0, 10_000_000)
 
 \end{frame}
 
+\begin{frame}
+    
+    But PyTorch / TensorFlow are not general scientific computing environments
+
+    \begin{itemize}
+        \item specialized to AI / neural nets
+    \end{itemize}
+
+    \vspace{1em}
+
+    \pause
+    Instead we will focus on Google JAX
+
+    \begin{itemize}
+        \item Exposes low level tools
+        \item MATLAB / NumPy -like interface
+        \item automatic differentiation
+        \item JIT compiler with XLA
+        \item Automatically detects hardware accelerators
+        \item Same code runs on CPU / GPU / TPU
+    \end{itemize}
+
+
+\end{frame}
 
 
 \begin{frame}

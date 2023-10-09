@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1696785718 "main.tex" "main.pdf" "main" 1696785720 0
+["pdflatex"] 1696851403 "main.tex" "main.pdf" "main" 1696851406 0
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -231,14 +231,14 @@
   "_minted-main/D4513B50D233C8C6778A45F5B61E52024281FAF47C70E7389F15E7D045E0286E.pygtex" 1696785504 763 73a6835732a94abe258b9ee56bf9411e ""
   "_minted-main/friendly.pygstyle" 1696785504 6450 15d0f047f52a9faa9dee239333417776 ""
   "loss.pdf" 1696785196 42397 46328585d803abc82547f1019581f0d8 ""
-  "main.aux" 1696785720 3284 edbf42bd1f0d0581e2512bafaf27345f "pdflatex"
-  "main.nav" 1696785720 1388 37fb167c90003b6656a249083ce3750a "pdflatex"
-  "main.out" 1696785719 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1696785717 9988 225dace842c5f43f22e408381ec0348a ""
-  "main.vrb" 1696785720 259 3bb0677f0070a999f6b0258995ee854a "pdflatex"
+  "main.aux" 1696851406 3455 055f54e0568392032591450d10ac7e42 "pdflatex"
+  "main.nav" 1696851406 1481 4222fe1a7430dd25c0a6eb791014e529 "pdflatex"
+  "main.out" 1696851405 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1696851403 10752 4d36a71ad51a74e615809406c1d23a33 ""
+  "main.vrb" 1696851405 259 3bb0677f0070a999f6b0258995ee854a "pdflatex"
   "matlab.pdf" 1696785196 21051 c3b1c68d996fcc765a085e5460f96951 ""
   "numpy.pdf" 1696785196 20997 8f58f5151b710477205a932ffb5885ef ""
-  "pvr.png" 1696785196 97517 e6838a4a474d1d8c1df9836f81320658 ""
+  "pvr.png" 1696851127 113550 a34fa130f7489975f9aaeb73df172dec ""
   (generated)
   "main.aux"
   "main.log"
